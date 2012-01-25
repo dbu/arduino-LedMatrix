@@ -1,4 +1,4 @@
-This little Arduino library adds syntactic sugar around the fastspi library with two dimensional layouts of LEDs.
+This little [Arduino](http://www.arduino.cc/) library adds syntactic sugar around the fastspi library with two dimensional layouts of LEDs.
 
 # Description
 
@@ -15,7 +15,7 @@ the strip number is your x coordinate and the relative position in the y coordin
 To install, put the [FastSPI_LED](http://code.google.com/p/fastspi/) library into the library folder of your arduino sketchbook.
 Then add this repository to your sketchbook. Either use
 
-    git clone
+    git clone git://github.com/dbu/arduino-LedMatrix.git
 
 Or just <a href="https://github.com/dbu/arduino-LedMatrix/zipball/master">download the zip file</a>.
 
